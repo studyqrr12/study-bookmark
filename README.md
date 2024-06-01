@@ -26,4 +26,6 @@ TAG : autoplay<br/>
 TAG : autoplay<br/>
 [서비스 워커에 대해 알아보고 Mock Response 만들기](https://fe-developers.kakaoent.com/2022/221208-service-worker/)<br/>
 TAG : PWA, serviceWorker<br/>
+[Axios 인터셉터로 JWT 토큰 로테이션 구현하기](https://jihyundev.tistory.com/34)<br/>
+TAG : Axios, JWT<br/>
 
