@@ -2,7 +2,7 @@
 
 공부하면서 참조할만한 자료를 링크한 레포지토리 입니다.<br/>
 
-다른 사람과 공유하고 싶은 좋은 컨텐츠가 있다면 PR을 보내주세요.<br/>
+다른 사람과 공유하고 싶은 컨텐츠, 자신이 정리한 글이 있다면 PR을 보내주세요.<br/>
 
 [기여 가이드](./CONTRIBUTING.md)
 
@@ -10,6 +10,11 @@
 
 [Only fullscreen opaque activities can request orientation](https://gun0912.tistory.com/79)<br/>
 TAG : migration, API:26<br/>
+
+## Database
+
+[데이터베이스 복제하기(리플리케이션) 1 - 테코와 알아보는 대규모 데이터 관리](https://tecoble.techcourse.co.kr/post/2023-11-06-zero-downtime-deployment-1/)<br/>
+[데이터베이스 복제하기(리플리케이션) 2 - 테코와 알아보는 대규모 데이터 관리](https://tecoble.techcourse.co.kr/post/2023-11-06-zero-downtime-deployment-2/)<br/>
 
 ## Front-end
 

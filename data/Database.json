@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "title": "데이터베이스 복제하기(리플리케이션) 1 - 테코와 알아보는 대규모 데이터 관리",
+    "url": "https://tecoble.techcourse.co.kr/post/2023-11-06-zero-downtime-deployment-1/",
+    "tag": []
+  },
+  {
+    "title": "데이터베이스 복제하기(리플리케이션) 2 - 테코와 알아보는 대규모 데이터 관리",
+    "url": "https://tecoble.techcourse.co.kr/post/2023-11-06-zero-downtime-deployment-2/",
+    "tag": []
+  }
+]
