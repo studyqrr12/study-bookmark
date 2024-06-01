@@ -19,4 +19,6 @@ TAG : PWA, serviceWorker<br/>
 TAG : autoplay<br/>
 [미디어 및 Web Audio API 자동 재생 가이드](https://developer.mozilla.org/ko/docs/Web/Media/Autoplay_guide)<br/>
 TAG : autoplay<br/>
+[서비스 워커에 대해 알아보고 Mock Response 만들기](https://fe-developers.kakaoent.com/2022/221208-service-worker/)<br/>
+TAG : PWA, serviceWorker<br/>
 

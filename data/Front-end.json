@@ -20,5 +20,13 @@
     "tag": [
       "autoplay"
     ]
+  },
+  {
+    "title": "서비스 워커에 대해 알아보고 Mock Response 만들기",
+    "url": "https://fe-developers.kakaoent.com/2022/221208-service-worker/",
+    "tag": [
+      "PWA",
+      "serviceWorker"
+    ]
   }
 ]
