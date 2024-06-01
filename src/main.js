@@ -25,7 +25,7 @@ async function main() {
 
     // README.md 문자열에 읽은 데이터 추가
     let file = null;
-    while (file = files.pop()) {
+    while (file = files.shift()) {
         try {
             const title = file.substring(0, file.length - '.json'.length);
             const jsonData = JSON.parse(await readFile(join(dataDir, file), { encoding: 'utf-8' }));
@@ -36,18 +36,17 @@ async function main() {
             //제목
             //TODO: 마크다운 형식에 영향을 주는 문자가 있다면 이스케이프 처리
             text += `## ${title}`;
-            text += '\n';
+            text += '\n\n';
 
             //내용
             let row = null;
-            while (row = jsonData.pop()) {
+            while (row = jsonData.shift()) {
                 //TODO: 마크다운 형식에 영향을 주는 문자가 있다면 이스케이프 처리
-                text += `[${row.title}](${row.url})`;
-                text += '\n';
+                text += `[${row.title}](${row.url})<br/>\n`;
 
                 let tags = row.tag ?? [];
-                if (tags) {
-                    text += `TAG : ${tags.join(', ')}\n`;
+                if (tags.length) {
+                    text += `TAG : ${tags.join(', ')}<br/>\n`;
                 }
             }
 

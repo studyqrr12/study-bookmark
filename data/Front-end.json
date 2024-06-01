@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "title": "PWA 오프라인 대체 페이지 만들기",
+    "url": "https://web.dev/articles/offline-fallback-page?hl=ko",
+    "tag": [
+      "PWA",
+      "serviceWorker"
+    ]
+  },
+  {
+    "title": "Chrome의 자동재생 정책",
+    "url": "https://developer.chrome.com/blog/autoplay?hl=ko",
+    "tag": [
+      "autoplay"
+    ]
+  },
+  {
+    "title": "미디어 및 Web Audio API 자동 재생 가이드",
+    "url": "https://developer.mozilla.org/ko/docs/Web/Media/Autoplay_guide",
+    "tag": [
+      "autoplay"
+    ]
+  }
+]
