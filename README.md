@@ -15,6 +15,8 @@ TAG : migration, API:26<br/>
 
 [데이터베이스 복제하기(리플리케이션) 1 - 테코와 알아보는 대규모 데이터 관리](https://tecoble.techcourse.co.kr/post/2023-11-06-zero-downtime-deployment-1/)<br/>
 [데이터베이스 복제하기(리플리케이션) 2 - 테코와 알아보는 대규모 데이터 관리](https://tecoble.techcourse.co.kr/post/2023-11-06-zero-downtime-deployment-2/)<br/>
+[Oracle Study :: 위지원의 개발 일기 🐈](https://weejw.tistory.com/608)<br/>
+TAG : oracle<br/>
 
 ## Front-end
 
@@ -28,4 +30,13 @@ TAG : autoplay<br/>
 TAG : PWA, serviceWorker<br/>
 [Axios 인터셉터로 JWT 토큰 로테이션 구현하기](https://jihyundev.tistory.com/34)<br/>
 TAG : Axios, JWT<br/>
+
+## ML
+
+[1. Transformer는 왜 성능이 좋을까? 수식 X, 아키텍쳐 분해 X, 직관적 이해 중심으로](https://youtu.be/lNuJ1nmeDs0?si=BDfPbEXlta6ft6Gk)<br/>
+TAG : youtube<br/>
+[KL divergence와 entropy (1)](https://youtu.be/yVR5N2-r5oc?si=T8Ptk9_ByNfRmzhy)<br/>
+TAG : youtube<br/>
+[KL divergence와 entropy (2)](https://youtu.be/G5f1oXz9Qk4?si=R0eb_5JwHaBf37Kn)<br/>
+TAG : youtube<br/>
 
