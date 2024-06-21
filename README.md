@@ -31,6 +31,11 @@ TAG : PWA, serviceWorker<br/>
 [Axios 인터셉터로 JWT 토큰 로테이션 구현하기](https://jihyundev.tistory.com/34)<br/>
 TAG : Axios, JWT<br/>
 
+## Java
+
+[\[10분 테코톡\] 이상의 Java Stream API](https://youtu.be/hNeSEqsStqc?si=q8FUMxyQ3xyg3uM7)<br/>
+TAG : Video<br/>
+
 ## ML
 
 [1. Transformer는 왜 성능이 좋을까? 수식 X, 아키텍쳐 분해 X, 직관적 이해 중심으로](https://youtu.be/lNuJ1nmeDs0?si=BDfPbEXlta6ft6Gk)<br/>
