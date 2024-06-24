@@ -1,9 +1,65 @@
 [
-    {
-      "title": "\\[10분 테코톡\\] 이상의 Java Stream API",
-      "url": "https://youtu.be/hNeSEqsStqc?si=q8FUMxyQ3xyg3uM7",
-      "tag": [
-        "Video"
-      ]
-    }
-  ]
+  {
+    "title": "\\[10분 테코톡\\] 이상의 Java Stream API",
+    "url": "https://youtu.be/hNeSEqsStqc?si=q8FUMxyQ3xyg3uM7",
+    "tag": [
+      "Video"
+    ]
+  },
+  {
+    "title": "\\[10분 테코톡\\] 짱수의 Enum",
+    "url": "https://youtu.be/qACxvjrb-xk?si=2JzwRR5V3v0B2cp2",
+    "tag": [
+      "Video"
+    ]
+  },
+  {
+    "title": "\\[10분 테코톡\\] 타칸의 Record",
+    "url": "https://youtu.be/MiHxFpTgAog?si=rxPDAWE2qZZ_gfei",
+    "tag": [
+      "Video"
+    ]
+  },
+  {
+    "title": "\\[10분 테코톡\\] 이든의 방어적 복사",
+    "url": "https://youtu.be/VsYw2GWgZV0?si=JRhZeQDMlawHTS0y",
+    "tag": [
+      "Video"
+    ]
+  },
+  {
+    "title": "\\[10분 테코톡\\] 커비의 가비지 컬렉션",
+    "url": "https://youtu.be/UJDXXmuMldM?si=ISdAY0-D82cU5sF6",
+    "tag": [
+      "Video"
+    ]
+  },
+  {
+    "title": "\\[10분 테코톡\\] 폴라의 Out of Memory Error",
+    "url": "https://youtu.be/q79x51oZFdA?si=08ZUqGBtSy11E0GJ",
+    "tag": [
+      "Video"
+    ]
+  },
+  {
+    "title": "\\[10분 테코톡\\] 서기의 추상 클래스와 인터페이스",
+    "url": "https://youtu.be/-7qSRz6c2O4?si=Tuy_j4DQOwmiGMwm",
+    "tag": [
+      "Video"
+    ]
+  },
+  {
+    "title": "\\[10분 테코톡\\] 미아의 Java Collection Framework",
+    "url": "https://youtu.be/FrPCDEiindY?si=h37J8MMmS7CmonBs",
+    "tag": [
+      "Video"
+    ]
+  },
+  {
+    "title": "\\[10분 테코톡\\] 케이엠의 동일성과 동등성",
+    "url": "https://youtu.be/OIoxURRTLic?si=W7LsvapjGmp6pHKs",
+    "tag": [
+      "Video"
+    ]
+  }
+]

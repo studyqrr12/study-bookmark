@@ -35,13 +35,33 @@ TAG : Axios, JWT<br/>
 
 [\[10분 테코톡\] 이상의 Java Stream API](https://youtu.be/hNeSEqsStqc?si=q8FUMxyQ3xyg3uM7)<br/>
 TAG : Video<br/>
+[\[10분 테코톡\] 짱수의 Enum](https://youtu.be/qACxvjrb-xk?si=2JzwRR5V3v0B2cp2)<br/>
+TAG : Video<br/>
+[\[10분 테코톡\] 타칸의 Record](https://youtu.be/MiHxFpTgAog?si=rxPDAWE2qZZ_gfei)<br/>
+TAG : Video<br/>
+[\[10분 테코톡\] 이든의 방어적 복사](https://youtu.be/VsYw2GWgZV0?si=JRhZeQDMlawHTS0y)<br/>
+TAG : Video<br/>
+[\[10분 테코톡\] 커비의 가비지 컬렉션](https://youtu.be/UJDXXmuMldM?si=ISdAY0-D82cU5sF6)<br/>
+TAG : Video<br/>
+[\[10분 테코톡\] 폴라의 Out of Memory Error](https://youtu.be/q79x51oZFdA?si=08ZUqGBtSy11E0GJ)<br/>
+TAG : Video<br/>
+[\[10분 테코톡\] 서기의 추상 클래스와 인터페이스](https://youtu.be/-7qSRz6c2O4?si=Tuy_j4DQOwmiGMwm)<br/>
+TAG : Video<br/>
+[\[10분 테코톡\] 미아의 Java Collection Framework](https://youtu.be/FrPCDEiindY?si=h37J8MMmS7CmonBs)<br/>
+TAG : Video<br/>
+[\[10분 테코톡\] 케이엠의 동일성과 동등성](https://youtu.be/OIoxURRTLic?si=W7LsvapjGmp6pHKs)<br/>
+TAG : Video<br/>
 
 ## ML
 
 [1. Transformer는 왜 성능이 좋을까? 수식 X, 아키텍쳐 분해 X, 직관적 이해 중심으로](https://youtu.be/lNuJ1nmeDs0?si=BDfPbEXlta6ft6Gk)<br/>
-TAG : youtube<br/>
+TAG : Video<br/>
 [KL divergence와 entropy (1)](https://youtu.be/yVR5N2-r5oc?si=T8Ptk9_ByNfRmzhy)<br/>
-TAG : youtube<br/>
+TAG : Video<br/>
 [KL divergence와 entropy (2)](https://youtu.be/G5f1oXz9Qk4?si=R0eb_5JwHaBf37Kn)<br/>
-TAG : youtube<br/>
+TAG : Video<br/>
+[KL divergence와 entropy (3)](https://youtu.be/TP3CZv3u1WE?si=Pn0i4qyHbbOCkKlg)<br/>
+TAG : Video<br/>
+[KL divergence와 entropy (4)](https://youtu.be/yfAyDfDNG1M?si=tcl4dX7E3Ny1F5lA)<br/>
+TAG : Video<br/>
 

@@ -3,21 +3,35 @@
         "title": "1. Transformer는 왜 성능이 좋을까? 수식 X, 아키텍쳐 분해 X, 직관적 이해 중심으로",
         "url": "https://youtu.be/lNuJ1nmeDs0?si=BDfPbEXlta6ft6Gk",
         "tag": [
-            "youtube"
+            "Video"
         ]
     },
     {
         "title": "KL divergence와 entropy (1)",
         "url": "https://youtu.be/yVR5N2-r5oc?si=T8Ptk9_ByNfRmzhy",
         "tag": [
-            "youtube"
+            "Video"
         ]
     },
     {
         "title": "KL divergence와 entropy (2)",
         "url": "https://youtu.be/G5f1oXz9Qk4?si=R0eb_5JwHaBf37Kn",
         "tag": [
-            "youtube"
+            "Video"
+        ]
+    },
+    {
+        "title": "KL divergence와 entropy (3)",
+        "url": "https://youtu.be/TP3CZv3u1WE?si=Pn0i4qyHbbOCkKlg",
+        "tag": [
+            "Video"
+        ]
+    },
+    {
+        "title": "KL divergence와 entropy (4)",
+        "url": "https://youtu.be/yfAyDfDNG1M?si=tcl4dX7E3Ny1F5lA",
+        "tag": [
+            "Video"
         ]
     }
 ]
