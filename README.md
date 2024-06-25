@@ -65,3 +65,10 @@ TAG : Video<br/>
 [KL divergence와 entropy (4)](https://youtu.be/yfAyDfDNG1M?si=tcl4dX7E3Ny1F5lA)<br/>
 TAG : Video<br/>
 
+## Mysql
+
+[MySQL 데이터베이스(DB) 문자열 저장 어떤 타입이 좋을까? │DBMS 데이터 모델링 문자열 CHAR vs VARCHAR](https://youtu.be/SdmQQPKnQRg?si=IB5A5HWbRE9SYJye)<br/>
+TAG : Video<br/>
+[Real MySQL 시즌1 콜레이션이란?│실무 중심 MySQL 데이터베이스 강의](https://youtu.be/KnapX1h91z0?si=rzWP8brt1bl5Pxhl)<br/>
+TAG : Video<br/>
+
