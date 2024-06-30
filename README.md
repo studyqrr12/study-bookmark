@@ -64,6 +64,8 @@ TAG : Video<br/>
 TAG : Video<br/>
 [KL divergence와 entropy (4)](https://youtu.be/yfAyDfDNG1M?si=tcl4dX7E3Ny1F5lA)<br/>
 TAG : Video<br/>
+[KL divergence (5)](https://youtu.be/5ZedMxKhBo0?si=37fJRRfg_Iu3cncZ)<br/>
+TAG : Video<br/>
 
 ## Mysql
 
